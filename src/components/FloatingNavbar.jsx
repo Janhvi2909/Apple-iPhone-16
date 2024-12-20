@@ -62,7 +62,7 @@ const FloatingNavbar = () => {
       className="fixed top-0 left-0 w-full bg-zinc z-50 py-3 px-5 md:px-10 flex justify-between items-center border-b border-[#4A4A4A]"
       style={{ transform: "translateY(-100%)", opacity: 0 }}
     >
-      <div className="text-white text-xl font-bold md:ml-56">iPhone 16 Pro</div>
+      <div className="text-white text-xl font-bold md:ml-56">iPhone 16 </div>
 
       {/* Desktop Navigation links and Buy Button */}
       <nav
